@@ -13,13 +13,13 @@
   </div>
 
   <div align="center" id="badges">
-    <a href="https://www.linkedin.com/in/uzma-ferdous/">
+    <a href="https://www.linkedin.com/in/uzma-ferdous/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://uzmaferdous.herokuapp.com/">
+    <a href="https://uzmaferdous.herokuapp.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=heroku&logoColor=white" alt="Static Badge" />
     </a>
-    <a href="mailto:uzma.ferdous@mail.utoronto.ca">
+    <a href="mailto:uzma.ferdous@mail.utoronto.ca" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Email_Me-teal?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
