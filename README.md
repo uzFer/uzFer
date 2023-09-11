@@ -7,9 +7,6 @@
     ⚡ I am a friendly, driven person looking to learn new skills!
   </div>
   <div> <p></p>
-   🌱 I’m currently learning about deep learning and computer vision using Python, PyTorch, and OpenCV as a robotics team member.
-  </div>
-  <div> <p></p>
   </div>
 
   <div align="center" id="badges">
